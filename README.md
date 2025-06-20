@@ -56,7 +56,7 @@ After signing in:
 
 ```json
 {
-  "0": {
+  {
     "id": 0,
     "username": "example",
     "name": "John",
@@ -72,10 +72,3 @@ After signing in:
     ]
   }
 }
-```
-
-## 📌 Notes
-
-- Put `json.hpp` in the `include/` folder.
-- Only standard C++ and the JSON library are used.
-- You can compile and run on any platform with a modern C++ compiler.
