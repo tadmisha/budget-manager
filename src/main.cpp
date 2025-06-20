@@ -8,7 +8,6 @@
 
 using json = nlohmann::json;
 
-
 //& Checks if the string is double
 bool is_double(const std::string& str) {
     try {
